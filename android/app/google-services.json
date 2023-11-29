@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1032037655274",
+    "project_id": "scanny-91a06",
+    "storage_bucket": "scanny-91a06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1032037655274:android:9a34bb52a41115a02ded93",
+        "android_client_info": {
+          "package_name": "com.example.scanny"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1032037655274-4vspk0cvog43vcgpndsdekpafr1g3d33.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scanny",
+            "certificate_hash": "5a4ed5e6c9bc96692c75c8fde4c561486bb2cea6"
+          }
+        },
+        {
+          "client_id": "1032037655274-fj4mg9csgehfk5l6o274gl9hdutufnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_eV84LOcLhC8q_juryu8RaptbDjRljI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1032037655274-fj4mg9csgehfk5l6o274gl9hdutufnu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
